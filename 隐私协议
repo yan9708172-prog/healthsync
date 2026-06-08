@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealthSync 隐私政策</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.8; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #1a73e8; border-bottom: 2px solid #1a73e8; padding-bottom: 10px; }
+        h2 { color: #333; margin-top: 30px; }
+        .meta { color: #666; font-size: 14px; margin-bottom: 30px; }
+        ul { padding-left: 20px; }
+        li { margin: 8px 0; }
+        .highlight { background: #f0f7ff; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        .warning { color: #d93025; }
+        .success { color: #188038; }
+    </style>
+</head>
+<body>
+    <h1>HealthSync 隐私政策</h1>
+    <p class="meta">最后更新日期：2026年6月8日 | 生效日期：2026年6月8日</p>
+
+    <h2>1. 概述</h2>
+    <p>HealthSync（以下简称"本应用"）是一款个人健康管理工具，由开发者 YAN 开发。本隐私政策旨在向您说明我们如何收集、使用、存储和保护您的个人信息。</p>
+    <div class="highlight">
+        <strong>重要提示：</strong> 本应用为个人使用工具，仅用于开发者本人的健康管理，不涉及任何商业数据收集或第三方数据共享。
+    </div>
+
+    <h2>2. 我们收集的信息</h2>
+    <h3>2.1 健康数据（通过华为 Health Kit 获取）</h3>
+    <p><strong>体脂秤数据：</strong></p>
+    <ul>
+        <li>体重、体脂率、BMI（身体质量指数）</li>
+        <li>骨骼肌量、骨量、体水分率、蛋白质率</li>
+        <li>基础代谢率、内脏脂肪等级</li>
+    </ul>
+    <p><strong>手环数据：</strong></p>
+    <ul>
+        <li>步数、消耗热量、心率、睡眠记录（深睡/浅睡/REM/清醒）</li>
+    </ul>
+
+    <h3>2.2 数据收集方式</h3>
+    <ul>
+        <li><strong>数据来源：</strong> 所有健康数据均来自华为运动健康 App，通过华为 Health Kit SDK 读取</li>
+        <li><strong>收集频率：</strong> 仅在您主动打开本应用并触发同步操作时收集</li>
+        <li><strong>数据存储：</strong> 所有数据仅存储在您的本地设备上，不会上传到任何云端服务器</li>
+    </ul>
+
+    <h2>3. 我们如何使用信息</h2>
+    <p>收集的健康数据仅用于以下目的：</p>
+    <ul>
+        <li><strong>个人健康趋势分析：</strong> 展示体重、体脂、步数、心率等数据的变化趋势</li>
+        <li><strong>健康报告生成：</strong> 生成日/周/月健康报告，辅助个人健康管理决策</li>
+        <li><strong>数据可视化：</strong> 通过图表形式展示健康数据，便于直观了解身体状况</li>
+    </ul>
+    <div class="highlight">
+        <p class="warning"><strong>我们不会：</strong></p>
+        <ul>
+            <li class="warning">❌ 将您的数据用于任何商业目的</li>
+            <li class="warning">❌ 将您的数据分享给任何第三方</li>
+            <li class="warning">❌ 将您的数据用于广告投放或营销</li>
+            <li class="warning">❌ 将您的数据出售给任何机构</li>
+        </ul>
+    </div>
+
+    <h2>4. 数据存储与安全</h2>
+    <h3>4.1 存储位置</h3>
+    <p>所有健康数据仅存储在您的本地设备上，包括应用本地数据库和本地文件系统。</p>
+    <h3>4.2 安全措施</h3>
+    <ul>
+        <li>数据不离开您的设备</li>
+        <li>不通过网络传输任何健康数据</li>
+        <li>不备份到云端</li>
+    </ul>
+
+    <h2>5. 数据共享与披露</h2>
+    <div class="highlight">
+        <p class="success"><strong>我们承诺：</strong></p>
+        <ul>
+            <li class="success">✅ 不会与任何第三方共享您的健康数据</li>
+            <li class="success">✅ 不会将数据提供给任何广告商或分析机构</li>
+            <li class="success">✅ 不会将数据出售给任何商业实体</li>
+            <li class="success">✅ 不会将数据用于任何商业目的</li>
+        </ul>
+    </div>
+
+    <h2>6. 您的权利</h2>
+    <ul>
+        <li><strong>访问权：</strong> 您可以随时查看本应用收集的所有健康数据</li>
+        <li><strong>删除权：</strong> 您可以随时卸载本应用，所有本地数据将被清除</li>
+        <li><strong>撤回授权：</strong> 您可以在华为运动健康 App 中随时撤销对本应用的数据访问授权</li>
+    </ul>
+
+    <h2>7. 未成年人保护</h2>
+    <p>本应用不面向 18 岁以下的未成年人。我们不会故意收集未成年人的个人信息。</p>
+
+    <h2>8. 隐私政策的变更</h2>
+    <p>我们可能会不时更新本隐私政策。任何重大变更将通过应用内通知或其他方式告知您。</p>
+
+    <h2>9. 联系我们</h2>
+    <p>如果您对本隐私政策有任何疑问，请通过以下方式联系：</p>
+    <ul>
+        <li><strong>开发者：</strong> YAN</li>
+        <li><strong>GitHub：</strong> <a href="https://github.com/YAN970817">https://github.com/YAN970817</a></li>
+    </ul>
+
+    <hr>
+    <p class="meta">本隐私政策自 2026年6月8日起生效。</p>
+</body>
+</html>
